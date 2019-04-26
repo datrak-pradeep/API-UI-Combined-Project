@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [User acceptance TestSuite]">
+  <test name="Expense Tracker Validattion(failed)">
+    <classes>
+      <class name="testClassPackage.TestClass">
+        <methods>
+          <include name="validate_show_entires"/>
+          <include name="SetUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testClassPackage.TestClass -->
+    </classes>
+  </test> <!-- Expense Tracker Validattion(failed) -->
+</suite> <!-- Failed suite [User acceptance TestSuite] -->
